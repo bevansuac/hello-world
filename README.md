@@ -1,2 +1,2 @@
 # hello-world
-This is the default repository from the GitHub test tutorial.
+Typically one would see the message: 'Hello World!' here.
